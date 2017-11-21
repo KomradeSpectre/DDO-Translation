@@ -27,7 +27,7 @@
   <message>
     <key>AREA_RANK_REWARD_27</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_28</key>
@@ -47,7 +47,7 @@
   <message>
     <key>AREA_RANK_REWARD_31</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_186</key>
@@ -57,7 +57,7 @@
   <message>
     <key>AREA_RANK_REWARD_187</key>
     <original>《腐臭の溜まり場》に新たな強敵が出現</original>
-    <translation>New powerful enemy at "腐臭の溜まり場"</translation>
+    <translation>New powerful enemy at "Rancid Haunt"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_188</key>
@@ -72,6 +72,6 @@
   <message>
     <key>AREA_RANK_REWARD_322</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
 </resource>

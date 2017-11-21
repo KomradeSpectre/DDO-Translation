@@ -16,8 +16,8 @@
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_4</key>
-    <original>テーブル</original>
-    <translation>Table</translation>
+    <original>リビング</original>
+    <translation>Living Room</translation>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_7</key>
@@ -43,5 +43,15 @@
     <key>FURNITURE_GROUP_NAME_11</key>
     <original>庭具</original>
     <translation>Garden Furniture</translation>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_12</key>
+    <original>壁紙</original>
+    <translation>Wallpaper</translation>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_13</key>
+    <original>時計</original>
+    <translation>Clock</translation>
   </message>
 </resource>

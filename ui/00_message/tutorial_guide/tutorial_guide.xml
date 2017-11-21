@@ -32,7 +32,7 @@
   <message>
     <key>TUTORIAL_33</key>
     <original>戦うべき敵</original>
-    <translation>Enemies to be Fought</translation>
+    <translation>Fighting Monsters</translation>
   </message>
   <message>
     <key>TUTORIAL_35</key>
@@ -225,11 +225,6 @@
     <translation>Acquiring Combat Manuevers</translation>
   </message>
   <message>
-    <key>TUTORIAL_103</key>
-    <original>グランドミッション</original>
-    <translation>Grand Missions</translation>
-  </message>
-  <message>
     <key>TUTORIAL_107</key>
     <original>エクストリームミッション</original>
     <translation>Extreme Missions</translation>
@@ -345,11 +340,6 @@
     <translation>The Arisen</translation>
   </message>
   <message>
-    <key>TUTORIAL_154</key>
-    <original>レイドボス戦</original>
-    <translation>Raid Boss Combat</translation>
-  </message>
-  <message>
     <key>TUTORIAL_155</key>
     <original>グリッテン砦攻防戦</original>
     <translation>Battle for Gritten Fort</translation>
@@ -427,10 +417,12 @@
   <message>
     <key>TUTORIAL_175</key>
     <original>戦徒の契り</original>
+    <translation>Right of Pledge</translation>
   </message>
   <message>
     <key>TUTORIAL_176</key>
     <original>着飾り装備</original>
+    <translation>Dress Equipment</translation>
   </message>
   <message>
     <key>TUTORIAL_177</key>
@@ -540,10 +532,12 @@
   <message>
     <key>TUTORIAL_229</key>
     <original>ロストポーンの救出</original>
+    <translation>Pawn Rescue</translation>
   </message>
   <message>
     <key>TUTORIAL_230</key>
     <original>便利なフリーマーカー</original>
+    <translation>Use of Free Markers</translation>
   </message>
   <message>
     <key>TUTORIAL_231</key>
@@ -558,6 +552,7 @@
   <message>
     <key>TUTORIAL_233</key>
     <original>魔物警戒スポットの強敵</original>
+    <translation>Monster Warning Message</translation>
   </message>
   <message>
     <key>TUTORIAL_234</key>
@@ -572,6 +567,7 @@
   <message>
     <key>TUTORIAL_236</key>
     <original>エリアマスターの支援品</original>
+    <translation>Area Master's Support Goods</translation>
   </message>
   <message>
     <key>TUTORIAL_237</key>
@@ -601,6 +597,7 @@
   <message>
     <key>TUTORIAL_242</key>
     <original>未知なるジョブへの挑戦</original>
+    <translation>Changing Vocations</translation>
   </message>
   <message>
     <key>TUTORIAL_243</key>
@@ -615,7 +612,7 @@
   <message>
     <key>TUTORIAL_247</key>
     <original>弱化になった時の対処</original>
-    <translation>Dealing With Weakness</translation>
+    <translation>Dealing with Weakness</translation>
   </message>
   <message>
     <key>TUTORIAL_249</key>
@@ -625,6 +622,7 @@
   <message>
     <key>TUTORIAL_250</key>
     <original>メインクエストのボス戦時の注意点</original>
+    <translation>Notes on Main Quest Boss Monsters</translation>
   </message>
   <message>
     <key>TUTORIAL_252</key>
@@ -637,6 +635,7 @@
   <message>
     <key>TUTORIAL_255</key>
     <original>鑑定交換</original>
+    <translation>Appraisal Exchange</translation>
   </message>
   <message>
     <key>TUTORIAL_257</key>
@@ -645,10 +644,12 @@
   <message>
     <key>TUTORIAL_258</key>
     <original>覚者の自室</original>
+    <translation>Arisen's Room</translation>
   </message>
   <message>
     <key>TUTORIAL_261</key>
     <original>鑑定ジュエリー</original>
+    <translation>Appraising Jewelry</translation>
   </message>
   <message>
     <key>TUTORIAL_264</key>
@@ -657,10 +658,12 @@
   <message>
     <key>TUTORIAL_266</key>
     <original>侵食魔について：小型敵</original>
+    <translation>Infected: Small Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_267</key>
     <original>汚染植物について</original>
+    <translation>Infected Plants</translation>
   </message>
   <message>
     <key>TUTORIAL_268</key>
@@ -680,6 +683,7 @@
   <message>
     <key>TUTORIAL_275</key>
     <original>侵食魔について：大型敵 </original>
+    <translation>Infected: Large Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_278</key>
@@ -704,6 +708,7 @@
   <message>
     <key>TUTORIAL_293</key>
     <original>侵食の大災 序説　到達</original>
+    <translation>An Introduction to the Infected</translation>
   </message>
   <message>
     <key>TUTORIAL_294</key>
@@ -712,6 +717,7 @@
   <message>
     <key>TUTORIAL_295</key>
     <original>新エリア解放</original>
+    <translation>New Area Unlock</translation>
   </message>
   <message>
     <key>TUTORIAL_297</key>
@@ -721,10 +727,12 @@
   <message>
     <key>TUTORIAL_299</key>
     <original>ポーン遠征隊</original>
+    <translation>Pawn Expeditions</translation>
   </message>
   <message>
     <key>TUTORIAL_301</key>
     <original>辺境の礎</original>
+    <translation>Sub Portcrystals</translation>
   </message>
   <message>
     <key>TUTORIAL_302</key>
@@ -766,6 +774,7 @@
   <message>
     <key>TUTORIAL_317</key>
     <original>クランレベルとクラン拠点</original>
+    <translation>Clan Levels and Clan Halls</translation>
   </message>
   <message>
     <key>TUTORIAL_320</key>
@@ -804,6 +813,7 @@
   <message>
     <key>TUTORIAL_330</key>
     <original>クランダンジョン</original>
+    <translation>Clan Dungeons</translation>
   </message>
   <message>
     <key>TUTORIAL_332</key>
@@ -822,13 +832,158 @@
   <message>
     <key>TUTORIAL_335</key>
     <original>闇の再動</original>
+    <translation>Recurrence of Darkness</translation>
   </message>
   <message>
     <key>TUTORIAL_336</key>
     <original>オンラインショップ</original>
+    <translation>Online Shop</translation>
   </message>
   <message>
     <key>TUTORIAL_337</key>
     <original>メールの確認</original>
+    <translation>Mail Confirmation</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_339</key>
+    <original>使命の達成度とサブストーリーログ</original>
+    <translation>Substory Log and Mission Progress</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_340</key>
+    <original>NPCの護衛（食料ゲージ）</original>
+    <translation>NPC Escorts (Food Gauge)</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_341</key>
+    <original>大食堂の復旧</original>
+    <translation>Restoration of the Great Dining Hall</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_342</key>
+    <original>拠点への食料運搬</original>
+    <translation>Food Transportation to Locations</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_348</key>
+    <original>ドミニオンポイントショップ</original>
+    <translation>Dominion Point Shop</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_349</key>
+    <original>ダクレイム砦奪還戦</original>
+    <translation>Dacreim Fortress Recapture Battle</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_350</key>
+    <original>絶望と惨劇の砲声 限界域</original>
+  </message>
+  <message>
+    <key>TUTORIAL_351</key>
+    <original>戦況ゲージ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_352</key>
+    <original>覚者のさらなる成長・絶技の継承</original>
+  </message>
+  <message>
+    <key>TUTORIAL_353</key>
+    <original>カスタムスキルEX　剛/技の切替え</original>
+  </message>
+  <message>
+    <key>TUTORIAL_354</key>
+    <original>ポーン戦術育成</original>
+    <translation>Pawn Tactics Training</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_355</key>
+    <original>魔物集結スポット</original>
+  </message>
+  <message>
+    <key>TUTORIAL_356</key>
+    <original>期間解放スポット</original>
+  </message>
+  <message>
+    <key>TUTORIAL_357</key>
+    <original>エピタフロード</original>
+    <translation>The Epitaph Road</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_358</key>
+    <original>ハイオーブ</original>
+    <translation>High Orbs</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_359</key>
+    <original>カスタムメイド工房について</original>
+    <translation>About Custom-Made Workshop</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_362</key>
+    <original>絶望の大陸 序節　到達</original>
+  </message>
+  <message>
+    <key>TUTORIAL_364</key>
+    <original>マンドラゴラ・ガーデニング</original>
+    <translation>Mandragora Gardening</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_365</key>
+    <original>ボーナスダンジョン</original>
+    <translation>Bonus Dungeons</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_366</key>
+    <original>アチーブメント：王家再興</original>
+    <translation>Achievements: Royal Family Restoration</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_367</key>
+    <original>エンブレムストーン</original>
+    <translation>Emblem Stones</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_369</key>
+    <original>戦甲種について：小型敵</original>
+    <translation>About Armored Battles: Small Enemies</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_370</key>
+    <original>戦甲種について：大型敵</original>
+    <translation>About Armored Battles: Large Enemies</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_371</key>
+    <original>フォトモード</original>
+    <translation>Photo Mode</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_372</key>
+    <original>ドワーフオークについて</original>
+    <translation>About Dwarf Orc</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_381</key>
+    <original>ウォーミッション</original>
+    <translation>War Missions</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_382</key>
+    <original>エンブレムストーンの入手方法</original>
+    <translation>How to Obtain an Emblem Stone</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_383</key>
+    <original>戦甲種について：追記</original>
+    <translation>About Armored Battles: Additional Notes</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_384</key>
+    <original>武具のリミット解除</original>
+    <translation>Limit Breaking Arms</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_385</key>
+    <original>武具の極限合成</original>
   </message>
 </resource>

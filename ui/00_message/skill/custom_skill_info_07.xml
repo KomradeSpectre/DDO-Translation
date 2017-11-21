@@ -139,10 +139,12 @@ LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_07_88</key>
     <original>力を十分に溜めた後、渾身の一撃を繰り出す
+&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
     <translation>After channeling enough energy, release
 a devastating slash with your body's entire might.
+&lt;COL ff7878&gt;Effective against War-Ready enemies.&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill.
 LV.6: Adds wind pressure to the blade and increases number of
 hits.&lt;/COL&gt;</translation>
@@ -174,5 +176,26 @@ assigned button on the ground increases the damage of the skill.
 Especially effective against downed enemies.
 &lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
 LV.6: Increases maximum charge amount (1→2)&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_180</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+リベンジゲージ最大時に威力が上昇
+&lt;COL ff7878&gt;亜人／鬼人／巨人系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+    <translation>EX Additional Effects:
+Increase damage.
+Further increase damage when revenge gauge is full.
+&lt;COL ff7878&gt;Further increase damage to Demihuman/Ogre/Giant enemies.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_181</key>
+    <original>【ＥＸ追加効果】
+攻撃を受ける瞬間に発動すると
+ダメージ量が増加すると同時に
+攻撃を敵に接触させる度にリベンジゲージが増加</original>
+    <translation>EX Additional Effects:
+If this skill is used before being hit, damage increases and
+revenge gauge increases as you hit enemies.</translation>
   </message>
 </resource>

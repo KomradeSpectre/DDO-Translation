@@ -22,7 +22,7 @@
   <message>
     <key>AREA_RANK_REWARD_41</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_42</key>
@@ -32,7 +32,7 @@
   <message>
     <key>AREA_RANK_REWARD_43</key>
     <original>《聖獣の間》に新たな強敵が出現</original>
-    <translation>New powerful enemy at "聖獣の間"</translation>
+    <translation>New powerful enemy at "Lair of the Holy Beast"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_44</key>
@@ -47,7 +47,7 @@
   <message>
     <key>AREA_RANK_REWARD_46</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_206</key>
@@ -72,6 +72,6 @@
   <message>
     <key>AREA_RANK_REWARD_329</key>
     <original>支援品ランクアップ</original>
-    <translation>Support goods rank up</translation>
+    <translation>Rank up of support goods</translation>
   </message>
 </resource>

@@ -32,17 +32,17 @@
   <message>
     <key>ORDER_CONDITION_998</key>
     <original>メインクエスト＜&lt;QCND 0&gt;＞をクリア</original>
-    <translation>Clear main quest "&lt;QCND 0&gt;"</translation>
+    <translation>Clear Main Quest "&lt;QCND 0&gt;"</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_999</key>
     <original>パーソナルクエスト＜&lt;QCND 0&gt;＞をクリア</original>
-    <translation>Clear personal quest "&lt;QCND 0&gt;"</translation>
+    <translation>Clear Personal Quest "&lt;QCND 0&gt;"</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_1000</key>
     <original>エクストリームミッション＜&lt;QCND 0&gt;＞をクリア</original>
-    <translation>Clear extreme mission "&lt;QCND 0&gt;"</translation>
+    <translation>Clear Extreme Mission "&lt;QCND 0&gt;"</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_993</key>
@@ -73,5 +73,29 @@
     <key>ORDER_CONDITION_1008</key>
     <original>パーティー内にパートナーポーンがいる</original>
     <translation>Partner Pawn in party</translation>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1010</key>
+    <original>無し</original>
+    <translation>None</translation>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1011</key>
+    <original>装備のアイテムランクが&lt;QCND 0&gt;以上（平均IR）</original>
+    <translation>Item Rank of &lt;QCND 0&gt; or more required (average IR)</translation>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1012</key>
+    <original>アイテム＜&lt;QCND 0&gt;＞を&lt;QCND 1&gt;個所持</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1014</key>
+    <original>パーティプレイ不可（メインポーン&lt;QCND 0&gt;人同行可）</original>
+    <translation>No party members (&lt;QCND 0&gt; main pawn allowed)</translation>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1015</key>
+    <original>ワールドクエスト＜&lt;QCND 0&gt;＞をクリア</original>
+    <translation>Clear World Quest "&lt;QCND 0&gt;"</translation>
   </message>
 </resource>

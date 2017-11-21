@@ -87,16 +87,61 @@ LV.6: Increases the area of effect of the skill.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_148</key>
-    <original>自身を中心に、敵の攻撃を防ぐバリアを発現させる
-展開中に敵を攻撃するとバリアに霊力が溜まり
-セットボタンを押すと霊力を使って攻撃可能
+    <original>敵の攻撃を防ぐバリアを発現する。展開中に敵を攻撃すると
+バリアに霊力が溜まり、セットボタンで霊力を使って攻撃可能
+しがみつき状態から攻撃発動可。&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／バリア展開時間延長
 LV.６でバリアの耐久値増加（１→２）&lt;/COL&gt;</original>
     <translation>Form a barrier around yourself to prevent
 enemy attacks. When attacking enemies while the barrier is active,
 spiritual energy gathers in the barrier. You can unleash the energy
-by pressing the set button.
+by pressing the assigned button.
+&lt;COL ff7878&gt;Effective against War-Ready enemies.&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill and duration.
 LV.6: Increase maximum barrier durability (1→2)&lt;/COL&gt;</translation>
+    <!-- NEEDS REVIEW -->
+    <!--自身を中心に、敵の攻撃を防ぐバリアを発現させる
+展開中に敵を攻撃するとバリアに霊力が溜まり
+セットボタンを押すと霊力を使って攻撃可能
+<COL ffdc78>LV UP毎に攻撃威力の上昇／バリア展開時間延長
+LV.６でバリアの耐久値増加（１→２）</COL>-->
+    <!--translation>Form a barrier around yourself to prevent
+enemy attacks. When attacking enemies while the barrier is active,
+spiritual energy gathers in the barrier. You can unleash the energy
+by pressing the set button.
+&lt;COL ffdc78&gt;LV UP: Increases damage of skill and duration.
+LV.6: Increase maximum barrier durability (1→2)&lt;/COL&gt;</translation-->
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_153</key>
+    <original>強力な攻撃を広範囲に繰り出す
+初段を敵に接触させれば連撃に移行する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation>A high power skill that covers a wide area.
+If the first hit is successfully landed, it will become a full on
+combo attack.
+&lt;COL ffdc78&gt;LV UP: Increases damage of the skill.
+LV.6: Increases the number of hits in the attack, and changes
+the motion of the skill.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_195</key>
+    <original>【ＥＸ追加効果】
+防御力の上昇量が増加
+ヒールブースト時の攻撃力の上昇量が増加</original>
+    <translation>EX Additional Effects:
+Increase defense buff value.
+Increase attack buff value during Heal Boost.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_196</key>
+    <original>【ＥＸ追加効果】
+攻撃を敵に接触させると
+スタミナが回復する効果を付与
+霊球の展開時間と効果時間が延長</original>
+    <translation>EX Additional Effects:
+Recover stamina when attacking enemies.
+Extend the duration of the pool.</translation>
   </message>
 </resource>

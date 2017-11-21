@@ -21,10 +21,12 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_5</key>
     <original>単品の椅子</original>
+    <translation>Single Chair</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_6</key>
-    <original>正面本棚/壁の本棚</original>
+    <original>壁の本棚</original>
+    <translation>Wall Bookshelf</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_7</key>
@@ -34,6 +36,7 @@
   <message>
     <key>FURNITURE_LAYOUT_NAME_8</key>
     <original>釜まわり一式</original>
+    <translation>Full Kettle Set</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_9</key>
@@ -42,17 +45,18 @@
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_10</key>
-    <original>ぬいぐるみ(オーク)</original>
-    <translation>Plush Doll (Orc)</translation>
+    <original>ぬいぐるみ・A</original>
+    <translation>Plush Doll - A</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_11</key>
-    <original>ぬいぐるみ(モゴック)</original>
-    <translation>Plush Doll (Mogok)</translation>
+    <original>ぬいぐるみ・B</original>
+    <translation>Plush Doll - B</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_12</key>
     <original>調理場左の棚/食材</original>
+    <translation>Left Kitchen Shelf/Foodstuffs</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_13</key>
@@ -98,11 +102,6 @@
     <key>FURNITURE_LAYOUT_NAME_21</key>
     <original>チェストの置物</original>
     <translation>Chest Figurine</translation>
-  </message>
-  <message>
-    <key>FURNITURE_LAYOUT_NAME_22</key>
-    <original>クローゼット</original>
-    <translation>Closet</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_25</key>
@@ -168,5 +167,60 @@
     <key>FURNITURE_LAYOUT_NAME_38</key>
     <original>天気予報</original>
     <translation>Weather Forecast</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_39</key>
+    <original>壁紙</original>
+    <translation>Wallpaper</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_40</key>
+    <original>湯口</original>
+    <translation>Spout</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_41</key>
+    <original>鳩時計</original>
+    <translation>Cuckoo Clock</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_42</key>
+    <original>壁面家具・左</original>
+    <translation>Left Wall Furniture</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_43</key>
+    <original>壁面家具・右</original>
+    <translation>Right Wall Furniture</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_44</key>
+    <original>カーペットの種類</original>
+    <translation>Carpet Type</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_45</key>
+    <original>家具</original>
+    <translation>Furniture</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_46</key>
+    <original>呼び鈴</original>
+    <translation>Summoning Bell</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_47</key>
+    <original>マンドラゴラ鉢植え①ノーマル</original>
+    <translation>Mandagora Potted Plant 1 (Normal)</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_48</key>
+    <original>マンドラゴラ鉢植え②パスポート</original>
+    <translation>Mandagora Potted Plant 2 (Passport)</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_49</key>
+    <original>マンドラゴラ鉢植え③パスポート</original>
+    <translation>Mandagora Potted Plant 3 (Passport)</translation>
   </message>
 </resource>

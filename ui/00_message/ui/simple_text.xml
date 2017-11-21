@@ -1,783 +1,627 @@
 ﻿<resource>
   <message>
     <key>simple_text_2388</key>
-    <original>初めまして</original>
-    <translation>How do you do</translation>
+    <original>/d additem 14256 1 1</original>
   </message>
   <message>
     <key>simple_text_2389</key>
-    <original>よろしくお願いします</original>
-    <translation>Nice to meet you</translation>
+    <original>/d additem 14248 1 1</original>
   </message>
   <message>
     <key>simple_text_2390</key>
-    <original>おはよう</original>
-    <translation>Good morning</translation>
+    <original>/d additem 16112 1 1</original>
   </message>
   <message>
     <key>simple_text_2391</key>
-    <original>こんにちは</original>
-    <translation>Hello</translation>
+    <original>/d additem 16747 1 1</original>
   </message>
   <message>
     <key>simple_text_2392</key>
-    <original>こんばんは</original>
-    <translation>Good evening</translation>
+    <original>/d additem 16748 1 1</original>
   </message>
   <message>
     <key>simple_text_2393</key>
-    <original>おやすみなさい</original>
-    <translation>Good night</translation>
+    <original>/d additem 16167 1 1</original>
   </message>
   <message>
     <key>simple_text_2394</key>
-    <original>さようなら</original>
-    <translation>Goodbye</translation>
+    <original>/d additem 16168 1 1</original>
   </message>
   <message>
     <key>simple_text_2395</key>
-    <original>今日は楽しかったです</original>
-    <translation>I had fun today</translation>
+    <original>/d additem 16169 1 1</original>
   </message>
   <message>
     <key>simple_text_2396</key>
-    <original>お疲れさまでした！</original>
-    <translation>Good work!</translation>
+    <original>/d additem 11760 1 1</original>
   </message>
   <message>
     <key>simple_text_2397</key>
-    <original>また遊びましょう</original>
-    <translation>Let's play together again sometime</translation>
+    <original>/d additem 16174 1 1</original>
   </message>
   <message>
     <key>simple_text_2398</key>
-    <original>ただいま</original>
-    <translation>I'm back</translation>
+    <original>/d additem 17069 1 1</original>
   </message>
   <message>
     <key>simple_text_2399</key>
-    <original>おかえり</original>
-    <translation>Welcome back</translation>
+    <original>/d additem 17070 1 1</original>
   </message>
   <message>
     <key>simple_text_2400</key>
-    <original>おめでとう！</original>
-    <translation>Congratulations!</translation>
+    <original>/d additem 17071 1 1</original>
   </message>
   <message>
     <key>simple_text_2401</key>
-    <original>よくやった！</original>
-    <translation>Good job!</translation>
+    <original>/d additem 17072 1 1</original>
   </message>
   <message>
     <key>simple_text_2402</key>
-    <original>がんばって！</original>
-    <translation>Good luck!</translation>
+    <original>/d additem 17073 1 1</original>
   </message>
   <message>
     <key>simple_text_2403</key>
-    <original>やったー！！！</original>
-    <translation>All right!!!</translation>
+    <original>/d additem 17074 1 1</original>
   </message>
   <message>
     <key>simple_text_2404</key>
-    <original>ありがとう</original>
-    <translation>Thank you</translation>
+    <original>/d additem 13226 1 1</original>
   </message>
   <message>
     <key>simple_text_2405</key>
-    <original>どういたしまして</original>
-    <translation>You're welcome</translation>
+    <original>/d additem 16134 1 1</original>
   </message>
   <message>
     <key>simple_text_2406</key>
-    <original>気を付けてください</original>
-    <translation>Take care</translation>
+    <original>/d additem 13227 1 1</original>
   </message>
   <message>
     <key>simple_text_2407</key>
-    <original>ごめんなさい</original>
-    <translation>I'm sorry</translation>
+    <original>/d additem 14252 1 1</original>
   </message>
   <message>
     <key>simple_text_2408</key>
-    <original>許してください</original>
-    <translation>Please forgive me</translation>
+    <original>/d additem 16170 1 1</original>
   </message>
   <message>
     <key>simple_text_2409</key>
-    <original>残念です</original>
-    <translation>That's too bad</translation>
+    <original>/d additem 16171 1 1</original>
   </message>
   <message>
     <key>simple_text_2411</key>
-    <original>ちょっといいですか？</original>
-    <translation>Excuse me...</translation>
+    <original>/d additem 16172 1 1</original>
   </message>
   <message>
     <key>simple_text_2412</key>
-    <original>誰ですか？</original>
-    <translation>Who?</translation>
+    <original>/d additem 16173 1 1</original>
   </message>
   <message>
     <key>simple_text_2413</key>
-    <original>どちらですか？</original>
-    <translation>Which?</translation>
+    <original>/d additem 16745 1 1</original>
   </message>
   <message>
     <key>simple_text_2414</key>
-    <original>どうすればいいですか？</original>
-    <translation>How?</translation>
+    <original>/d additem 16746 1 1</original>
   </message>
   <message>
     <key>simple_text_2415</key>
-    <original>何ですか？</original>
-    <translation>What?</translation>
+    <original>/d additem 17115 1 1</original>
   </message>
   <message>
     <key>simple_text_2416</key>
-    <original>いつですか？</original>
-    <translation>When?</translation>
+    <original>/d additem 17116 1 1</original>
   </message>
   <message>
     <key>simple_text_2417</key>
-    <original>いくつですか？</original>
-    <translation>How many?</translation>
+    <original>/d additem 17117 1 1</original>
   </message>
   <message>
     <key>simple_text_2419</key>
-    <original>どこにですか？</original>
-    <translation>Where to?</translation>
+    <original>/d additem 17118 1 1</original>
   </message>
   <message>
     <key>simple_text_2420</key>
-    <original>どこに行きますか？</original>
-    <translation>Where shall we go?</translation>
+    <original>/d additem 17119 1 1</original>
   </message>
   <message>
     <key>simple_text_2421</key>
-    <original>持っていますか？</original>
-    <translation>Do you have it?</translation>
+    <original>/d additem 13225 1 1</original>
   </message>
   <message>
     <key>simple_text_2422</key>
-    <original>今どんな武器を持っていますか？</original>
-    <translation>What weapons can you use?</translation>
+    <original>/d additem 13228 1 1</original>
   </message>
   <message>
     <key>simple_text_2424</key>
-    <original>できますか？</original>
-    <translation>Can you do it?</translation>
+    <original>/d additem 13229 1 1</original>
   </message>
   <message>
     <key>simple_text_2425</key>
-    <original>フレンドになってくれませんか？</original>
-    <translation>Can I add you to my friend list?</translation>
+    <original>/d additem 17134 1 1</original>
   </message>
   <message>
     <key>simple_text_2426</key>
-    <original>休憩しませんか？</original>
-    <translation>Shall we take a break?</translation>
+    <original>/d additem 17135 1 1</original>
   </message>
   <message>
     <key>simple_text_2427</key>
-    <original>助けはいりますか？</original>
-    <translation>Do you need any help?</translation>
+    <original>/d additem 17136 1 1</original>
   </message>
   <message>
     <key>simple_text_2428</key>
-    <original>なぜですか？</original>
-    <translation>Why?</translation>
+    <original>/d additem 17137 1 1</original>
   </message>
   <message>
     <key>simple_text_2429</key>
-    <original>どうしてですか？</original>
-    <translation>How come?</translation>
+    <original>/d additem 17138 1 1</original>
   </message>
   <message>
     <key>simple_text_2430</key>
-    <original>クランに入りませんか？</original>
-    <translation>Do you want to join my clan?</translation>
+    <original>/d additem 17139 1 1</original>
   </message>
   <message>
     <key>simple_text_2433</key>
-    <original>クランに入れてくれませんか？</original>
-    <translation>Can I join your clan?</translation>
+    <original>/d additem 17140 1 1</original>
   </message>
   <message>
     <key>simple_text_2434</key>
-    <original>グループチャットに入りませんか？</original>
-    <translation>Do you want to join group chat?</translation>
+    <original>/d additem 17141 1 1</original>
   </message>
   <message>
     <key>simple_text_2435</key>
-    <original>グループチャットに入れてくれませんか？</original>
-    <translation>Can I join your group chat?</translation>
+    <original>/d additem 17142 1 1</original>
   </message>
   <message>
     <key>simple_text_2436</key>
-    <original>どのジョブを持っていますか？</original>
-    <translation>Which job do you have?</translation>
+    <original>/d additem 17143 1 1</original>
   </message>
   <message>
     <key>simple_text_2437</key>
-    <original>他にどのジョブができますか？</original>
-    <translation>What other jobs can you do?</translation>
+    <original>/d additem 17144 1 1</original>
   </message>
   <message>
     <key>simple_text_2438</key>
-    <original>準備はできていますか？</original>
-    <translation>Are you prepared?</translation>
+    <original>/d additem 17133 1 1</original>
   </message>
   <message>
     <key>simple_text_2439</key>
-    <original>わかりません</original>
-    <translation>I don't understand</translation>
+    <original>/d additem 13230 1 1</original>
   </message>
   <message>
     <key>simple_text_2441</key>
-    <original>いりません</original>
-    <translation>No thanks</translation>
+    <original>/d additem 16175 1 1</original>
   </message>
   <message>
     <key>simple_text_2442</key>
-    <original>はい、お願いします</original>
-    <translation>Yes, please</translation>
+    <original>/d additem 16176 1 1</original>
   </message>
   <message>
     <key>simple_text_2443</key>
-    <original>お願いします</original>
-    <translation>If you would be so kind</translation>
+    <original>/d additem 16749 1 1</original>
   </message>
   <message>
     <key>simple_text_2444</key>
-    <original>わかりました</original>
-    <translation>Understood</translation>
+    <original>/d additem 16750 1 1</original>
   </message>
   <message>
     <key>simple_text_2445</key>
-    <original>後でまたお話ししてください</original>
-    <translation>Please tell me the story later</translation>
+    <original>/d additem 16857 1 1</original>
   </message>
   <message>
     <key>simple_text_2447</key>
-    <original>今は個人行動を優先中です</original>
-    <translation>Every man for themselves</translation>
+    <original>/d additem 17059 1 1</original>
   </message>
   <message>
     <key>simple_text_2448</key>
-    <original>答えたいですが、表現がわかりません</original>
-    <translation>I want to answer, but I don't understand the expression.</translation>
+    <original>/d additem 17060 1 1</original>
   </message>
   <message>
     <key>simple_text_2449</key>
-    <original>なるほど</original>
-    <translation>I see</translation>
+    <original>/d additem 17061 1 1</original>
   </message>
   <message>
     <key>simple_text_2450</key>
-    <original>せっかくですが遠慮します</original>
-    <translation>It's rare but I'll hold back</translation>
+    <original>/d additem 17062 1 1</original>
   </message>
   <message>
     <key>simple_text_2451</key>
-    <original>へぇー</original>
-    <translation>That's interesting</translation>
+    <original>/d additem 16177 1 1</original>
   </message>
   <message>
     <key>simple_text_2454</key>
-    <original>えーっと――</original>
-    <translation>Um...</translation>
+    <original>/d additem 13232 1 1</original>
   </message>
   <message>
     <key>simple_text_2455</key>
-    <original>えっ！？</original>
-    <translation>Huh!?</translation>
+    <original>/d additem 13233 1 1</original>
   </message>
   <message>
     <key>simple_text_2456</key>
-    <original>本当に？</original>
-    <translation>Really?</translation>
+    <original>/d additem  1 1</original>
   </message>
   <message>
     <key>simple_text_2457</key>
-    <original>ＯＫ！</original>
-    <translation>OK!</translation>
+    <original>/d additem 13234 1 1</original>
   </message>
   <message>
     <key>simple_text_2463</key>
-    <original>むむむ</original>
-    <translation>Hmmm</translation>
+    <original>/d additem  1 1</original>
   </message>
   <message>
     <key>simple_text_2464</key>
-    <original>もうすぐ別の予定があります</original>
-    <translation>I don't have any other plans yet</translation>
+    <original>/d additem 13231 1 1</original>
   </message>
   <message>
     <key>simple_text_2466</key>
-    <original>はい</original>
-    <translation>Yes</translation>
+    <original>/d additem 13235 1 1</original>
   </message>
   <message>
     <key>simple_text_2467</key>
-    <original>いいえ</original>
-    <translation>No</translation>
+    <original>/d additem 13236 1 1</original>
   </message>
   <message>
     <key>simple_text_2470</key>
-    <original>説明します</original>
-    <translation>I will explain</translation>
+    <original>/d additem 13237 1 1</original>
   </message>
   <message>
     <key>simple_text_2471</key>
-    <original>問題ないです</original>
-    <translation>I have no questions</translation>
+    <original>/d additem 13238 1 1</original>
   </message>
   <message>
     <key>simple_text_2472</key>
-    <original>できません</original>
-    <translation>I can't</translation>
+    <original>/d additem 16178 1 1</original>
   </message>
   <message>
     <key>simple_text_2473</key>
-    <original>しないでください</original>
-    <translation>Please don't do that</translation>
+    <original>/d additem 16179 1 1</original>
   </message>
   <message>
     <key>simple_text_2477</key>
-    <original>お任せします</original>
-    <translation>I'll rely on you</translation>
+    <original>/d additem 16180 1 1</original>
   </message>
   <message>
     <key>simple_text_2478</key>
-    <original>仕事の時間です</original>
-    <translation>Time for work</translation>
+    <original>/d additem 13239 1 1</original>
   </message>
   <message>
     <key>simple_text_2479</key>
-    <original>約束があります</original>
-    <translation>I have an appointment</translation>
+    <original>/d additem 14251 1 1</original>
   </message>
   <message>
     <key>simple_text_2482</key>
-    <original>眠くなりました</original>
-    <translation>I'm sleepy</translation>
+    <original>/d additem 16181 1 1</original>
   </message>
   <message>
     <key>simple_text_2483</key>
-    <original>疲れました</original>
-    <translation>I'm tired</translation>
+    <original>/d additem 16751 1 1</original>
   </message>
   <message>
     <key>simple_text_2484</key>
-    <original>用事があります</original>
-    <translation>I have things to do</translation>
+    <original>/d additem 16752 1 1</original>
   </message>
   <message>
     <key>simple_text_2486</key>
-    <original>体調が悪いです</original>
-    <translation>I'm not feeling well</translation>
+    <original>/d additem 13241 1 1</original>
   </message>
   <message>
     <key>simple_text_2488</key>
-    <original>気が向きません</original>
-    <translation>I'm not up for it</translation>
+    <original>/d additem 13242 1 1</original>
   </message>
   <message>
     <key>simple_text_2489</key>
-    <original>興味があります</original>
-    <translation>I'm interested</translation>
+    <original>/d additem 13243 1 1</original>
   </message>
   <message>
     <key>simple_text_2490</key>
-    <original>戦闘中です</original>
-    <translation>I'm in the middle of a fight</translation>
+    <original>/d additem 16186 1 1</original>
   </message>
   <message>
     <key>simple_text_2491</key>
-    <original>お金を稼ぎたいです</original>
-    <translation>I want to make money</translation>
+    <original>/d additem 14249 1 1</original>
   </message>
   <message>
     <key>simple_text_2492</key>
-    <original>覚えていません</original>
-    <translation>I don't remember</translation>
+    <original>/d additem 14254 1 1</original>
   </message>
   <message>
     <key>simple_text_2493</key>
-    <original>知りません</original>
-    <translation>I don't know</translation>
+    <original>/d additem 16753 1 1</original>
   </message>
   <message>
     <key>simple_text_2495</key>
-    <original>使ったばかりです</original>
-    <translation>Just used it</translation>
+    <original>/d additem 16754 1 1</original>
   </message>
   <message>
     <key>simple_text_2496</key>
-    <original>経験値が欲しいです</original>
-    <translation>I want experience points</translation>
+    <original>/d additem 13244 1 1</original>
   </message>
   <message>
     <key>simple_text_2497</key>
-    <original>間違えました</original>
-    <translation>Oops</translation>
+    <original>/d additem 16187 1 1</original>
   </message>
   <message>
     <key>simple_text_2498</key>
-    <original>すでに誘われています</original>
-    <translation>I already have an invite</translation>
+    <original>/d additem 16188 1 1</original>
   </message>
   <message>
     <key>simple_text_2499</key>
-    <original>すでに持っています</original>
-    <translation>I already have one</translation>
+    <original>/d additem 17063 1 1</original>
   </message>
   <message>
     <key>simple_text_2501</key>
-    <original>募集が終わりました</original>
-    <translation>No longer recruiting</translation>
+    <original>/d additem 17064 1 1</original>
   </message>
   <message>
     <key>simple_text_2502</key>
-    <original>募集中です</original>
-    <translation>Looking for members</translation>
+    <original>/d additem 17065 1 1</original>
   </message>
   <message>
     <key>simple_text_2504</key>
-    <original>集まってください</original>
-    <translation>Gather together</translation>
+    <original>/d additem 17066 1 1</original>
   </message>
   <message>
     <key>simple_text_2505</key>
-    <original>一緒にやりませんか？</original>
-    <translation>Team up?</translation>
+    <original>/d additem 17067 1 1</original>
   </message>
   <message>
     <key>simple_text_2507</key>
-    <original>１人ですか？</original>
-    <translation>Are you alone?</translation>
+    <original>/d additem 16190 1 1</original>
   </message>
   <message>
     <key>simple_text_2509</key>
-    <original>空きはありますか？</original>
-    <translation>Any vacancies?</translation>
+    <original>/d additem 13245 1 1</original>
   </message>
   <message>
     <key>simple_text_2510</key>
-    <original>誘ってください</original>
-    <translation>Please invite me</translation>
+    <original>/d additem 14255 1 1</original>
   </message>
   <message>
     <key>simple_text_2512</key>
-    <original>入れてください</original>
-    <translation>Please let me join</translation>
+    <original>/d additem 16755 1 1</original>
   </message>
   <message>
     <key>simple_text_2513</key>
-    <original>リーダーは誰ですか？</original>
-    <translation>Who is the leader?</translation>
+    <original>/d additem 16756 1 1</original>
   </message>
   <message>
     <key>simple_text_2515</key>
-    <original>こちらは短期間でもＯＫです</original>
-    <translation>I only have a little time but OK.</translation>
+    <original>/d additem 13247 1 1</original>
   </message>
   <message>
     <key>simple_text_2516</key>
-    <original>フルパーティーです</original>
-    <translation>Party is full</translation>
+    <original>/d additem 14250 1 1</original>
   </message>
   <message>
     <key>simple_text_2518</key>
-    <original>手伝ってください</original>
-    <translation>Please assist</translation>
+    <original>/d additem 16182 1 1</original>
   </message>
   <message>
     <key>simple_text_2522</key>
-    <original>解散します</original>
-    <translation>Disbanding</translation>
+    <original>/d additem 16183 1 1</original>
   </message>
   <message>
     <key>simple_text_2523</key>
-    <original>席を外します</original>
-    <translation>Taking a break</translation>
+    <original>/d additem 13246 1 1</original>
   </message>
   <message>
     <key>simple_text_2527</key>
-    <original>レベル差が少ないほうがいいですね</original>
-    <translation>It's better to be within a few levels</translation>
+    <original>/d additem 13248 1 1</original>
   </message>
   <message>
     <key>simple_text_2529</key>
-    <original>タンク</original>
-    <translation>Tank</translation>
+    <original>/d additem 17145 1 1</original>
   </message>
   <message>
     <key>simple_text_2530</key>
-    <original>近距離アタッカー</original>
-    <translation>Short distance attacks</translation>
+    <original>/d additem 17146 1 1</original>
   </message>
   <message>
     <key>simple_text_2533</key>
-    <original>遠距離アタッカー</original>
-    <translation>Long distance attacks</translation>
+    <original>/d additem 17147 1 1</original>
   </message>
   <message>
     <key>simple_text_2534</key>
-    <original>ヒーラー</original>
-    <translation>Healer</translation>
+    <original>/d additem 17148 1 1</original>
   </message>
   <message>
     <key>simple_text_2537</key>
-    <original>強化役</original>
-    <translation>Buffer</translation>
+    <original>/d additem 17149 1 1</original>
   </message>
   <message>
     <key>simple_text_2538</key>
-    <original>魔法攻撃役</original>
-    <translation>Caster</translation>
+    <original>/d additem 17150 1 1</original>
   </message>
   <message>
     <key>simple_text_2539</key>
-    <original>参加を希望します</original>
-    <translation>I hope I can participate</translation>
+    <original>/d additem 17151 1 1</original>
   </message>
   <message>
     <key>simple_text_2540</key>
-    <original>ソロ</original>
-    <translation>Solo</translation>
+    <original>/d additem 17152 1 1</original>
   </message>
   <message>
     <key>simple_text_9069</key>
-    <original>リーダー</original>
-    <translation>Leader</translation>
+    <original>/d additem 13251 1 1</original>
   </message>
   <message>
     <key>simple_text_9070</key>
-    <original>ポーンを参加させます</original>
-    <translation>Pawns can participate</translation>
+    <original>/d additem 13252 1 1</original>
   </message>
   <message>
     <key>simple_text_9071</key>
-    <original>引きつける！</original>
-    <translation>Attract!</translation>
+    <original>/d additem 13253 1 1</original>
   </message>
   <message>
     <key>simple_text_9072</key>
-    <original>助けてくれ！</original>
-    <translation>Help me!</translation>
+    <original>/d additem 13792 1 1</original>
   </message>
   <message>
     <key>simple_text_9073</key>
-    <original>回復を頼む</original>
-    <translation>Requesting healing</translation>
+    <original>/d additem 17086 1 1</original>
   </message>
   <message>
     <key>simple_text_9074</key>
-    <original>回復する！</original>
-    <translation>Healing!</translation>
+    <original>/d additem 17087 1 1</original>
   </message>
   <message>
     <key>simple_text_9075</key>
-    <original>跳ね上げる！</original>
-    <translation>Leap!</translation>
+    <original>/d additem 17088 1 1</original>
   </message>
   <message>
     <key>simple_text_9076</key>
-    <original>こっちだ</original>
-    <translation>Here</translation>
+    <original>/d additem 17089 1 1</original>
   </message>
   <message>
     <key>simple_text_9077</key>
-    <original>いまだ、攻撃を！</original>
-    <translation>Once more, attack!</translation>
+    <original>/d additem 17090 1 1</original>
   </message>
   <message>
     <key>simple_text_9078</key>
-    <original>退くぞ！</original>
-    <translation>Get back!</translation>
+    <original>/d additem 17091 1 1</original>
   </message>
   <message>
     <key>simple_text_9079</key>
-    <original>引きつける！</original>
-    <translation>Attract!</translation>
+    <original>/d additem 17092 1 1</original>
   </message>
   <message>
     <key>simple_text_9080</key>
-    <original>助けて！</original>
-    <translation>Help me out!</translation>
+    <original>/d additem 17093 1 1</original>
   </message>
   <message>
     <key>simple_text_9081</key>
-    <original>回復をお願い</original>
-    <translation>Please heal me</translation>
+    <original>/d additem 17094 1 1</original>
   </message>
   <message>
     <key>simple_text_9082</key>
-    <original>回復します！</original>
-    <translation>I'll heal!</translation>
+    <original>/d additem 17095 1 1</original>
   </message>
   <message>
     <key>simple_text_9083</key>
-    <original>跳ね上げます！</original>
-    <translation>Jump!</translation>
+    <original>/d additem 17096 1 1</original>
   </message>
   <message>
     <key>simple_text_9084</key>
-    <original>こっちです</original>
-    <translation>This way</translation>
+    <original>/d additem 16113 1 1</original>
   </message>
   <message>
     <key>simple_text_9085</key>
-    <original>いまこそ、攻撃を！</original>
-    <translation>Now, attack!</translation>
+    <original>/d additem 16184 1 1</original>
   </message>
   <message>
     <key>simple_text_9086</key>
-    <original>退きましょう！</original>
-    <translation>Withdraw!</translation>
+    <original>/d additem 16185 1 1</original>
   </message>
   <message>
     <key>simple_text_9087</key>
-    <original>ついてきてください</original>
-    <translation>Please follow</translation>
+    <original>/d additem 17105 1 1</original>
   </message>
   <message>
     <key>simple_text_9088</key>
-    <original>ついていきます</original>
-    <translation>I'll follow you</translation>
+    <original>/d additem 13240 1 1</original>
   </message>
   <message>
     <key>simple_text_9089</key>
-    <original>調べてみてください</original>
-    <translation>Please check it</translation>
+    <original>/d additem 16114 1 1</original>
   </message>
   <message>
     <key>simple_text_9090</key>
-    <original>見つけました</original>
-    <translation>Found it</translation>
+    <original>/d additem 16727 1 1</original>
   </message>
   <message>
     <key>simple_text_9091</key>
-    <original>全力で攻撃！</original>
-    <translation>Full attack!</translation>
+    <original>/d additem 17370 1 1</original>
   </message>
   <message>
     <key>simple_text_9092</key>
-    <original>少し下がってください</original>
-    <translation>Please move down a bit and give me a little distance</translation>
+    <original>/d additem 17371 1 1</original>
   </message>
   <message>
     <key>simple_text_9093</key>
-    <original>敵に注視されぬよう気をつけてください</original>
-    <translation>Please be careful and keep an eye out for enemies</translation>
+    <original>/d additem 17372 1 1</original>
   </message>
   <message>
     <key>simple_text_9094</key>
-    <original>これを先にやっつけて！</original>
-    <translation>Defeat this one first!</translation>
+    <original>/d additem 16122 1 1</original>
   </message>
   <message>
     <key>simple_text_9095</key>
-    <original>攻撃しないでください</original>
-    <translation>Please don't attack</translation>
+    <original>/d additem 16123 1 1</original>
   </message>
   <message>
     <key>simple_text_9096</key>
-    <original>無効化してください</original>
-    <translation>Please deactivate it</translation>
+    <original>/d additem 16124 1 1</original>
   </message>
   <message>
     <key>simple_text_9097</key>
-    <original>支援行動をお願いします！</original>
-    <translation>Please give me aid!</translation>
+    <original>/d additem 16125 1 1</original>
   </message>
   <message>
     <key>simple_text_9098</key>
-    <original>逃げて！</original>
-    <translation>Run away!</translation>
+    <original>/d additem 16126 1 1</original>
   </message>
   <message>
     <key>simple_text_9099</key>
-    <original>行動不能！　助けて！！！</original>
-    <translation>Down! Help me out!!!</translation>
+    <original>/d additem 16127 1 1</original>
   </message>
   <message>
     <key>simple_text_9100</key>
-    <original>待機します</original>
-    <translation>Standing by</translation>
+    <original>/d additem 16128 1 1</original>
   </message>
   <message>
     <key>simple_text_9101</key>
-    <original>なくなりました</original>
-    <translation>None left</translation>
+    <original>/d additem 16129 1 1</original>
   </message>
   <message>
     <key>simple_text_9102</key>
-    <original>ありません</original>
-    <translation>Don't have it</translation>
+    <original>/d additem 16130 1 1</original>
   </message>
   <message>
     <key>simple_text_9103</key>
-    <original>準備完了！</original>
-    <translation>Ready!</translation>
+    <original>/d additem 16131 1 1</original>
   </message>
   <message>
     <key>simple_text_9104</key>
-    <original>使ってください</original>
-    <translation>Please use it</translation>
+    <original>/d additem 16132 1 1</original>
   </message>
   <message>
     <key>simple_text_9105</key>
-    <original>休憩しましょう</original>
-    <translation>Let's rest for a while</translation>
+    <original>/d additem 16133 1 1</original>
   </message>
   <message>
     <key>simple_text_9106</key>
-    <original>しがみつきます</original>
-    <translation>Hang onto it</translation>
+    <original>/d additem 17097 1 1</original>
   </message>
   <message>
     <key>simple_text_9107</key>
-    <original>敵を引きつけます</original>
-    <translation>Drawing enemy over</translation>
+    <original>/d additem 17098 1 1</original>
   </message>
   <message>
     <key>simple_text_9108</key>
-    <original>待ってください</original>
-    <translation>Wait, please</translation>
+    <original>/d additem 17099 1 1</original>
   </message>
   <message>
     <key>simple_text_9109</key>
-    <original>現地に集合しましょう</original>
-    <translation>Let's meet there</translation>
+    <original>/d additem 17100 1 1</original>
   </message>
   <message>
     <key>simple_text_9110</key>
-    <original>そこにいてください</original>
-    <translation>Stay there</translation>
+    <original>/d additem 17101 1 1</original>
   </message>
   <message>
     <key>simple_text_9111</key>
-    <original>これから向かいます</original>
-    <translation>On my way</translation>
+    <original>/d additem 17102 1 1</original>
   </message>
   <message>
     <key>simple_text_9112</key>
-    <original>すぐ戻ります</original>
-    <translation>Will be right back</translation>
+    <original>/d additem 17103 1 1</original>
   </message>
   <message>
     <key>simple_text_9113</key>
-    <original>がんばりましょう！</original>
-    <translation>Let's do our best!</translation>
+    <original>/d additem 17104 1 1</original>
   </message>
   <message>
     <key>simple_text_9114</key>
-    <original>がんばります！</original>
-    <translation>I'll do my best!</translation>
+    <original>/d additem 17153 1 1</original>
   </message>
   <message>
     <key>simple_text_9115</key>
@@ -1122,12 +966,12 @@
   <message>
     <key>simple_text_9213</key>
     <original>弱点を攻撃してくれ！</original>
-    <translation>Attack it's weak spot!</translation>
+    <translation>Attack its weak spot!</translation>
   </message>
   <message>
     <key>simple_text_9214</key>
     <original>弱点を攻撃して！</original>
-    <translation>Strike at it's weak point!</translation>
+    <translation>Strike at its weak point!</translation>
   </message>
   <message>
     <key>simple_text_9215</key>
@@ -1152,22 +996,22 @@
   <message>
     <key>simple_text_9219</key>
     <original>弱点を出そう！</original>
-    <translation>Reveal it's weak spot!</translation>
+    <translation>Reveal its weak spot!</translation>
   </message>
   <message>
     <key>simple_text_9220</key>
     <original>弱点を狙おう！</original>
-    <translation>Aim for it's weak spot!</translation>
+    <translation>Aim for its weak spot!</translation>
   </message>
   <message>
     <key>simple_text_9221</key>
     <original>弱点を攻撃しよう！</original>
-    <translation>Attack it's weakspot!</translation>
+    <translation>Attack its weakspot!</translation>
   </message>
   <message>
     <key>simple_text_9222</key>
     <original>スタミナを減らそう！</original>
-    <translation>Decrease it's stamina!</translation>
+    <translation>Decrease its stamina!</translation>
   </message>
   <message>
     <key>simple_text_9223</key>

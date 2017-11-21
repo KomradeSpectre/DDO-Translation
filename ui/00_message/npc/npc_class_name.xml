@@ -112,8 +112,8 @@
     <translation>Craft Officer</translation>
   </message>
   <message>
-    <original>グランドミッション：グリッテン砦攻防戦</original>
-    <translation>Grand Mission: Battle for Gritten Fort</translation>
+    <original>エクストリームミッション</original>
+    <translation>Extreme Missions</translation>
   </message>
   <message>
     <original>転職・戦技補佐</original>
@@ -134,10 +134,6 @@
   <message>
     <original>バザー</original>
     <translation>Bazaar</translation>
-  </message>
-  <message>
-    <original>グランドミッション：魔物のるつぼ</original>
-    <translation>Grand Mission: The Crucible of Demons</translation>
   </message>
   <message>
     <original>道具屋</original>
@@ -601,5 +597,105 @@
   <message>
     <original>グランドミッション：古代神殿の死闘</original>
     <translation>Grand Mission: The Deathly Battle of the Ancient Temple</translation>
+  </message>
+  <message>
+    <original>エリアマスター・紋章メダル交換</original>
+    <translation>Area Master / Emblem Medal Exchange</translation>
+  </message>
+  <message>
+    <original>宿・戦技補佐</original>
+    <translation>Inn / Arts Support</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>宿・転職・戦技補佐</original>
+    <translation>Inn / Vocation / Arts Support</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>武具屋</original>
+    <translation>Equipment Shop</translation>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+    <translation>Adventure Organizer</translation>
+  </message>
+  <message>
+    <original>戦技補佐</original>
+    <translation>Arts Support</translation>
+  </message>
+  <message>
+    <original>宿屋</original>
+    <translation>Inn</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+    <translation>Adventure Organizer</translation>
+  </message>
+  <message>
+    <original>オーブ交換：クレスト</original>
+    <translation>Orb Exchange: Crests</translation>
+  </message>
+  <message>
+    <original>宿・戦技補佐</original>
+    <translation>Inn / Arts Support</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>ジョブマスター：ハイセプター</original>
+    <translation>Job Master: High Scepter</translation>
+  </message>
+  <message>
+    <original>戦技補佐</original>
+    <translation>Arts Support</translation>
+  </message>
+  <message>
+    <original>ウォーミッション：ダクレイム砦</original>
+    <translation>War Mission: Dacreim Fortress</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>よろず屋</original>
+    <translation>General Shop</translation>
+  </message>
+  <message>
+    <original>道具屋</original>
+    <translation>Item Shop</translation>
+  </message>
+  <message>
+    <original>クラン拠点管理</original>
+    <translation>Clan Hall Management</translation>
+  </message>
+  <message>
+    <original>カスタムメイド工房</original>
+    <translation>Custom-Made Workshop</translation>
+  </message>
+  <message>
+    <original>セレクトショップ</original>
+    <translation>Secret Shop</translation>
+  </message>
+  <message>
+    <original>鑑定交換</original>
+    <translation>Appraisal Exchange</translation>
+  </message>
+  <message>
+    <original>冒険手帳サポート係</original>
+    <translation>Adventure Memo Support Staff</translation>
   </message>
 </resource>

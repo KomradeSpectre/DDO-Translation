@@ -9,22 +9,24 @@
     <original>以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
-    <translation>You will acquire the following perk. Is this OK?
+</original>
+    <translation>Are you sure you want to
+acquire the following perk?
 
 　Perk: &lt;NAME SKILL&gt; +&lt;VAL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
     <original>以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
-    <translation>You will acquire the following perk. Is this OK?
+</original>
+    <translation>Are you sure you want to
+acquire the following perk?
 
 　Perk: &lt;NAME SKILL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
@@ -32,12 +34,13 @@
 (次回から隣接する能力のみが取得可能になります)
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
-    <translation>You will acquire the following perk. Is this OK?
-(Only adjacent perks will be available next time)
+</original>
+    <translation>Are you sure you want to
+acquire the following perk?
+(Only adjacent perks will be available next)
 
 　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
@@ -45,16 +48,18 @@
 (次回から隣接する能力のみが取得可能になります)
 
 　取得能力：&lt;NAME SKILL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
-    <translation>You will acquire the following perk. Is this OK?
-(Only adjacent perks will be available next time)
+</original>
+    <translation>Are you sure you want to
+acquire the following perk?
+(Only adjacent perks will be available next)
 
 　Perk: &lt;NAME SKILL&gt;
-　Blood Orb Cost: &lt;VAL BO&gt;</translation>
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
     <original>&lt;VAL&gt;%</original>
+    <translation>&lt;VAL&gt;%</translation>
   </message>
   <message>
     <key>ORB_TEXT_YES</key>
@@ -68,8 +73,8 @@
   </message>
   <message>
     <key>ORB_TEXT_MYBO</key>
-    <original>所持ブラッドオーブ</original>
-    <translation>Current Blood Orbs</translation>
+    <original>所持&lt;UNTN BO&gt;</original>
+    <translation>Current &lt;UNTN BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_GETED</key>
@@ -89,8 +94,9 @@
 以下の能力を取得できます。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
-    <translation>You will acquire the following perk as a reward
-for achieving the required total level. Is this OK?
+    <translation>Are you sure you want to acquire
+the following perk as a reward
+for achieving the required total level?
 
 　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
@@ -100,8 +106,9 @@ for achieving the required total level. Is this OK?
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;</original>
-    <translation>You will acquire the following perk as a reward
-for acquiring all other perks. Is this OK?
+    <translation>Are you sure you want to acquire
+the following perk as a reward
+for acquiring all other perks?
 
 　Perk: &lt;NAME SKILL&gt;</translation>
   </message>
@@ -116,8 +123,8 @@ for acquiring all other perks. Is this OK?
   </message>
   <message>
     <key>ORB_TEXT_ERR_BO_LACK</key>
-    <original>ブラッドオーブが不足しています</original>
-    <translation>You do not have enough Blood Orbs.</translation>
+    <original>&lt;UNTN BO&gt;が不足しています</original>
+    <translation>You do not have enough &lt;UNTN BO&gt;.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
@@ -150,8 +157,9 @@ for acquiring all other perks. Is this OK?
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
-    <translation>You will acquire the following perk as a reward
-for acquiring all other perks. Is this OK?
+    <translation>Are you sure you want to acquire
+the following perk as a reward
+for acquiring all other perks?
 
 　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
@@ -192,7 +200,38 @@ for acquiring all other perks. Is this OK?
   </message>
   <message>
     <key>ORB_TEXT_CONDITION_QUEST</key>
-    <original>条件：以下のクエストをクリア</original>
-    <translation>Condition: Clear the following quest</translation>
+    <original>▼以下のクエストをクリア</original>
+    <translation>▼ Clear the following quest</translation>
+  </message>
+  <message>
+    <key>ORB_TEXT_NEED_HB</key>
+    <original>　必要&lt;UNTN HB&gt;：&lt;VAL HB&gt;</original>
+    <translation>　Required &lt;UNTN HB&gt;: &lt;VAL HB&gt;</translation>
+  </message>
+  <message>
+    <key>ORB_TEXT_NEED_BO</key>
+    <original>　必要&lt;UNTN BO&gt;：&lt;VAL BO&gt;</original>
+    <translation>　Required &lt;UNTN BO&gt;: &lt;VAL BO&gt;</translation>
+  </message>
+  <message>
+    <key>ORB_TEXT_CONDITION_SPECIAL</key>
+    <original>▼以下の特殊条件をクリア</original>
+    <translation>▼ Clear the following special conditions</translation>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_HB_LACK</key>
+    <original>&lt;UNTN HB&gt;が不足しています</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_NOT_CLEAR_SPECIAL</key>
+    <original>特殊条件をクリアしていません</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_NOT_RELEASE_JOB</key>
+    <original>ジョブが解放されていません</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_GUIDE_CONVERT_ORB</key>
+    <original>ブラッドオーブ変換</original>
   </message>
 </resource>

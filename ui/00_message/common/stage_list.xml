@@ -405,7 +405,7 @@
   <message>
     <key>STAGE_NAME_81</key>
     <original>禊の神殿　離殿</original>
-    <translation>Temple of Purification South Chamber</translation>
+    <translation>Temple of Purification: South Chamber</translation>
   </message>
   <message>
     <key>STAGE_NAME_82</key>
@@ -634,6 +634,7 @@
     <key>STAGE_NAME_126</key>
     <original>テルの枯れ井戸</original>
     <translation>Tel's Withered Well</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>STAGE_NAME_127</key>
@@ -643,6 +644,8 @@
   <message>
     <key>STAGE_NAME_128</key>
     <original>旧鉱泉湧き口</original>
+    <translation>Old Spring</translation>
+    <!-- Soleyu: Needs Revision -->
   </message>
   <message>
     <key>STAGE_NAME_129</key>
@@ -704,6 +707,11 @@
     <original>異界の狭間</original>
     <translation>The Rift</translation>
     <translation_format>Rift</translation_format>
+  </message>
+  <message>
+    <key>STAGE_NAME_141</key>
+    <original>ブリア海岸</original>
+    <translation>Breya Coast</translation>
   </message>
   <message>
     <key>STAGE_NAME_142</key>
@@ -1030,7 +1038,7 @@
   </message>
   <message>
     <key>STAGE_NAME_213</key>
-    <original>st0040 テスト部屋（市川）</original>
+    <original>st0040 テスト部屋（クエスト班）</original>
   </message>
   <message>
     <key>STAGE_NAME_214</key>
@@ -1094,7 +1102,7 @@
   </message>
   <message>
     <key>STAGE_NAME_229</key>
-    <original>st0059 企画検証部屋 09</original>
+    <original>st0059 企画検証部屋 （ステージ班用）</original>
   </message>
   <message>
     <key>STAGE_NAME_230</key>
@@ -1104,6 +1112,7 @@
   <message>
     <key>STAGE_NAME_231</key>
     <original>旧水汲み場</original>
+    <translation>Old Waterhole</translation>
   </message>
   <message>
     <key>STAGE_NAME_232</key>
@@ -1181,10 +1190,14 @@
   <message>
     <key>STAGE_NAME_290</key>
     <original>青静の遺跡</original>
+    <translation>Blue Stillness Ruins</translation>
+    <!--Soleyu: Needs Revision, not sure if its Aoi or Blue Stillness-->
   </message>
   <message>
     <key>STAGE_NAME_293</key>
     <original>冥き大地下墓地</original>
+    <translation>Dark Tree Great Catacombs</translation>
+    <!-- Soleyu: Needs Revision, not sure if Dark Tree is a correct translation-->
   </message>
   <message>
     <key>STAGE_NAME_300</key>
@@ -1195,10 +1208,13 @@
   <message>
     <key>STAGE_NAME_303</key>
     <original>パブ用ステージ</original>
+    <translation>Pubs' Stage</translation>
   </message>
   <message>
     <key>STAGE_NAME_304</key>
     <original>エンディング用部屋</original>
+    <translation>Ending Office</translation>
+    <!--Soleyu: Needs Revision-->
   </message>
   <message>
     <key>STAGE_NAME_305</key>
@@ -1484,17 +1500,17 @@
   <message>
     <key>STAGE_NAME_382</key>
     <original>始まりの洞</original>
-    <translation>Den of Beginnings</translation>
+    <translation>Hollow of Beginnings</translation>
   </message>
   <message>
     <key>STAGE_NAME_383</key>
     <original>始まりの洞</original>
-    <translation>Den of Beginnings</translation>
+    <translation>Hollow of Beginnings</translation>
   </message>
   <message>
     <key>STAGE_NAME_384</key>
     <original>始まりの洞　集いの間　</original>
-    <translation>Den of Beginnings: Meeting Space</translation>
+    <translation>Hollow of Beginnings: Gathering Area</translation>
   </message>
   <message>
     <key>STAGE_NAME_385</key>
@@ -1509,18 +1525,22 @@
   <message>
     <key>STAGE_NAME_387</key>
     <original>追憶の枝</original>
+    <translation>Branch of Remembrance</translation>
   </message>
   <message>
     <key>STAGE_NAME_388</key>
     <original>懐旧の枝</original>
+    <translation>Branch of Nostalgia</translation>
   </message>
   <message>
     <key>STAGE_NAME_389</key>
     <original>悔恨の枝</original>
+    <translation>Branch of Remorse</translation>
   </message>
   <message>
     <key>STAGE_NAME_390</key>
     <original>静慮の枝</original>
+    <translation>Branch of Contemplation</translation>
   </message>
   <message>
     <key>STAGE_NAME_397</key>
@@ -1540,6 +1560,7 @@
   <message>
     <key>STAGE_NAME_402</key>
     <original>緑夜の庵</original>
+    <translation>Green Nights Retreat</translation>
   </message>
   <message>
     <key>STAGE_NAME_403</key>
@@ -1548,6 +1569,7 @@
   <message>
     <key>STAGE_NAME_404</key>
     <original>ディプニエ大侵林</original>
+    <translation>Deepney Great Forest</translation>
   </message>
   <message>
     <key>STAGE_NAME_405</key>
@@ -1605,6 +1627,7 @@
   <message>
     <key>STAGE_NAME_417</key>
     <original>侵鬼の洞穴</original>
+    <translation>Invading Demons Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_418</key>
@@ -1625,6 +1648,7 @@
   <message>
     <key>STAGE_NAME_422</key>
     <original>ハディン地下古道</original>
+    <translation>Hadin Underground Old Road</translation>
   </message>
   <message>
     <key>STAGE_NAME_423</key>
@@ -1685,6 +1709,7 @@
   <message>
     <key>STAGE_NAME_434</key>
     <original>ダナ族長の家</original>
+    <translation>Dana Chief's Home</translation>
   </message>
   <message>
     <key>STAGE_NAME_435</key>
@@ -1707,6 +1732,7 @@
   <message>
     <key>STAGE_NAME_440</key>
     <original>タラーテ集水路</original>
+    <translation>Thalati Waterway</translation>
   </message>
   <message>
     <key>STAGE_NAME_442</key>
@@ -1756,6 +1782,7 @@
   <message>
     <key>STAGE_NAME_454</key>
     <original>タラーテ集水路</original>
+    <translation>Thalati Waterway</translation>
   </message>
   <message>
     <key>STAGE_NAME_455</key>
@@ -1766,6 +1793,7 @@
   <message>
     <key>STAGE_NAME_458</key>
     <original>歪みの樹冠</original>
+    <translation>Warped Canopy</translation>
   </message>
   <message>
     <key>STAGE_NAME_459</key>
@@ -1775,6 +1803,34 @@
   <message>
     <key>STAGE_NAME_460</key>
     <original>クラン拠点ボードクエスト用検証部屋</original>
+    <translation>Clan Hall Board Quest Verification Room</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_461</key>
+    <original>ラスニテ山麓</original>
+    <translation>Rathnite Foothills</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_462</key>
+    <original>ラスニテ山麓　湖畔部</original>
+    <translation>Rathnite Foothills Lakeside</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_466</key>
+    <original>ティネス砦</original>
+    <translation>Fort Thines</translation>
+    <translation_format proper="true" />
+  </message>
+  <message>
+    <key>STAGE_NAME_467</key>
+    <original>ティネス砦</original>
+    <translation>Fort Thines</translation>
+    <translation_format proper="true" />
+  </message>
+  <message>
+    <key>STAGE_NAME_468</key>
+    <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
   </message>
   <message>
     <key>STAGE_NAME_469</key>
@@ -1789,6 +1845,153 @@
   <message>
     <key>STAGE_NAME_472</key>
     <original>始まりの洞</original>
-    <translation>Den of Beginnings</translation>
+    <translation>Hollow of Beginnings</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_479</key>
+    <original>湖畔の洞窟</original>
+    <translation>Lakeside Grotto</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_480</key>
+    <original>ベルタ盗賊団のアジト</original>
+    <translation>Bertha Bandit Group Hideout</translation>
+    <translation_format proper="true" />
+  </message>
+  <message>
+    <key>STAGE_NAME_493</key>
+    <original>ラスニテ地下水路</original>
+    <translation>Rathnite Underground Waterway</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_494</key>
+    <original>水源へ続く地下道</original>
+    <translation>Reservoir Underground Tunnel</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_495</key>
+    <original>冥府下りの洞穴</original>
+    <translation>Cave of Hell's Descent</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_496</key>
+    <original>イミズディット遺跡</original>
+    <translation>Yimidhitt Ruins</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_497</key>
+    <original>ウルタ古水路</original>
+    <translation>Ulta Ancient Watercourse</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_498</key>
+    <original>ラスニテ納骨廟</original>
+    <translation>Rathnite Columbarium</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_511</key>
+    <original>ピレモス旅人宿</original>
+    <translation>Piremoth Traveler's Inn</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_512</key>
+    <original>ロスギル旅人宿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_513</key>
+    <original>エルセン商会</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_514</key>
+    <original>民家</original>
+    <translation>House</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_515</key>
+    <original>民家</original>
+    <translation>House</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_521</key>
+    <original>OM検証部屋ver3.0（機能ありOM）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_522</key>
+    <original>OM検証部屋ver3.0（機能なしOM）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_523</key>
+    <original>ボーナスダンジョン【XP】</original>
+    <translation>Bonus Dungeon (XP)</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_524</key>
+    <original>ボーナスダンジョン【リム】</original>
+    <translation>Bonus Dungeon (R)</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_525</key>
+    <original>ボーナスダンジョン【BO】</original>
+    <translation>Bonus Dungeon (BO)</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_526</key>
+    <original>ボーナスダンジョン【ゴールド】</original>
+    <translation>Bonus Dungeon (G)</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_549</key>
+    <original>英霊眠りし道 ラスニテ山麓</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_550</key>
+    <original>英霊眠りし道 祠</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_551</key>
+    <original>英霊眠りし道 洞窟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_553</key>
+    <original>英霊眠りし道 水路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_569</key>
+    <original>冥府下りの洞穴 深層部</original>
+    <translation>Cave of Hell's Descent Inner Depths</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_572</key>
+    <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_573</key>
+    <original>ダクレイム砦</original>
+    <translation>Dacreim Fortress</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_575</key>
+    <original>ラスニテ山麓　湖畔部</original>
+    <translation>Rathnite Foothills Lakeside</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_576</key>
+    <original>ティネス砦　大食堂</original>
+    <translation>Fort Thines: Great Dining Hall</translation>
+    <translation_format proper="true" />
+  </message>
+  <message>
+    <key>STAGE_NAME_578</key>
+    <original>ボーナスダンジョンロビー</original>
+    <translation>Bonus Dungeon Lobby</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_586</key>
+    <original>イフリート戦闘部屋</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_587</key>
+    <original>魔界村地下墓地</original>
   </message>
 </resource>
